@@ -1,0 +1,7 @@
+import pandas as pd
+df = pd.read_csv("C:/Users/Mahesh Mogulluri/Downloads/sales_data_sample.csv")
+print(df)
+product_sales = df.groupby('PRODUCTLINE')['SALES'].sum()
+print(product_sales)
+max_sales = product_sales.sort_values(ascending=False)
+print(max_sales.head(5))
