@@ -1,0 +1,11 @@
+These are the main Repositeries in the Market:
+
+GitHub
+BigBucket
+Gitlab
+AWS Code community
+Azure Repositeries
+
+
+
+
