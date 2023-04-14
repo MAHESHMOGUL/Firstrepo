@@ -1,0 +1,21 @@
+Account
+Subscription
+Resource Group (RG)
+
+Storage account name-has to be unique
+Region
+
+performance:Standard
+                        Premium : low latency – good performance
+
+Redundancy:Fault-tolerant
+IAM = Identity Access Management
+Blob,File,Queue,Table
+Blob = Binary Large objects to store the data.
+
+Storage and Compute
+
+
+Python:how to call REST API in python.
+
+
